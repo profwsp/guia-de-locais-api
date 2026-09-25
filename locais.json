@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Parque Ibirapuera",
+    "categoria": "Parque",
+    "descricao": "Maior parque urbano de São Paulo, com lagos, museus e pistas para caminhada.",
+    "latitude": -23.5874,
+    "longitude": -46.6576
+  },
+  {
+    "id": 2,
+    "nome": "MASP",
+    "categoria": "Museu",
+    "descricao": "Museu de Arte de São Paulo, famoso pelo vão livre na Avenida Paulista.",
+    "latitude": -23.5614,
+    "longitude": -46.6559
+  },
+  {
+    "id": 3,
+    "nome": "Mercado Municipal",
+    "categoria": "Gastronomia",
+    "descricao": "Conhecido pelo sanduíche de mortadela e pelo pastel de bacalhau.",
+    "latitude": -23.5417,
+    "longitude": -46.6297
+  },
+  {
+    "id": 4,
+    "nome": "Pinacoteca",
+    "categoria": "Museu",
+    "descricao": "Um dos museus de arte mais importantes do Brasil, ao lado do Jardim da Luz.",
+    "latitude": -23.5343,
+    "longitude": -46.6339
+  },
+  {
+    "id": 5,
+    "nome": "Beco do Batman",
+    "categoria": "Arte urbana",
+    "descricao": "Vielas na Vila Madalena cobertas de grafites que mudam o tempo todo.",
+    "latitude": -23.5563,
+    "longitude": -46.6873
+  }
+]
