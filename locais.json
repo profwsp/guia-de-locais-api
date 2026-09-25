@@ -33,10 +33,10 @@
   },
   {
     "id": 5,
-    "nome": "Beco do Batman",
-    "categoria": "Arte urbana",
+    "nome": "SENAI SUZANO",
+    "categoria": "Escola",
     "descricao": "Vielas na Vila Madalena cobertas de grafites que mudam o tempo todo.",
-    "latitude": -23.5563,
-    "longitude": -46.6873
+    "latitude": -23.541,
+    "longitude": -46.310
   }
 ]
