@@ -1,42 +1,282 @@
 [
   {
     "id": 1,
-    "nome": "Parque Ibirapuera",
-    "categoria": "Parque",
-    "descricao": "Maior parque urbano de São Paulo, com lagos, museus e pistas para caminhada.",
-    "latitude": -23.5874,
-    "longitude": -46.6576
+    "nome": "Hospital Regional do Alto Tietê",
+    "categoria": "Saúde",
+    "endereco": "Rua Doutor Prudente de Moraes, 2200 - Vila Amorim",
+    "telefone": "(11) 4744-8230",
+    "horario": null,
+    "latitude": -23.54100,
+    "longitude": -46.29149
   },
   {
     "id": 2,
-    "nome": "MASP",
-    "categoria": "Museu",
-    "descricao": "Museu de Arte de São Paulo, famoso pelo vão livre na Avenida Paulista.",
-    "latitude": -23.5614,
-    "longitude": -46.6559
+    "nome": "Hospital Santa Maria de Suzano",
+    "categoria": "Saúde",
+    "endereco": "Avenida Armando de Salles Oliveira",
+    "telefone": "(11) 4746-5188",
+    "horario": null,
+    "latitude": -23.53518,
+    "longitude": -46.31354
   },
   {
     "id": 3,
-    "nome": "Mercado Municipal",
-    "categoria": "Gastronomia",
-    "descricao": "Conhecido pelo sanduíche de mortadela e pelo pastel de bacalhau.",
-    "latitude": -23.5417,
-    "longitude": -46.6297
+    "nome": "Pronto Socorro Municipal",
+    "categoria": "Saúde",
+    "endereco": "Rua Professor Roberto David, 499",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.55248,
+    "longitude": -46.30625
   },
   {
     "id": 4,
-    "nome": "Pinacoteca",
-    "categoria": "Museu",
-    "descricao": "Um dos museus de arte mais importantes do Brasil, ao lado do Jardim da Luz.",
-    "latitude": -23.5343,
-    "longitude": -46.6339
+    "nome": "UPA Jardim Revista",
+    "categoria": "Saúde",
+    "endereco": "Rua Guarani, 200 - Jardim Revista",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.51748,
+    "longitude": -46.29283
   },
   {
     "id": 5,
-    "nome": "SENAI SUZANO",
-    "categoria": "Arte Urbana",
-    "descricao": "Vielas na Vila Madalena cobertas de grafites que mudam o tempo todo.",
-    "latitude": -23.541,
-    "longitude": -46.310
+    "nome": "UBS Doutor André Cano Garcia",
+    "categoria": "Saúde",
+    "endereco": "Avenida Jaguari, 37 - Jardim Boa Vista",
+    "telefone": "(11) 4749-2753",
+    "horario": "Seg a Sex 07:00–17:00",
+    "latitude": -23.50203,
+    "longitude": -46.29962
+  },
+  {
+    "id": 6,
+    "nome": "Pronto Atendimento Antônio Tanoeiro",
+    "categoria": "Saúde",
+    "endereco": "Rua Mussi Jorge Antônio, 319 - Jardim Amazonas",
+    "telefone": "(11) 4742-6567",
+    "horario": "24 horas",
+    "latitude": -23.64315,
+    "longitude": -46.31761
+  },
+  {
+    "id": 7,
+    "nome": "Drogaria São Paulo",
+    "categoria": "Farmácia",
+    "endereco": "Rua General Francisco Glicério, 437 - Centro",
+    "telefone": null,
+    "horario": "24 horas",
+    "latitude": -23.53844,
+    "longitude": -46.30950
+  },
+  {
+    "id": 8,
+    "nome": "Droga Raia",
+    "categoria": "Farmácia",
+    "endereco": "Rua General Francisco Glicério, 1000 - Centro",
+    "telefone": null,
+    "horario": "Todos os dias 07:00–23:00",
+    "latitude": -23.54317,
+    "longitude": -46.31170
+  },
+  {
+    "id": 9,
+    "nome": "Fazafarma",
+    "categoria": "Farmácia",
+    "endereco": "Avenida Antônio Marques Figueira, 1674 - Vila Figueira",
+    "telefone": "(11) 2891-3419",
+    "horario": "Seg a Sáb 08:00–20:00",
+    "latitude": -23.55044,
+    "longitude": -46.30747
+  },
+  {
+    "id": 10,
+    "nome": "Farmativa",
+    "categoria": "Farmácia",
+    "endereco": "Avenida Washington Luiz",
+    "telefone": "(11) 4749-7232",
+    "horario": null,
+    "latitude": -23.50500,
+    "longitude": -46.29103
+  },
+  {
+    "id": 11,
+    "nome": "Drogaria Nossa Farma",
+    "categoria": "Farmácia",
+    "endereco": "Rua Jeca Tatú, 1968",
+    "telefone": "(11) 4742-9794",
+    "horario": null,
+    "latitude": -23.56082,
+    "longitude": -46.29279
+  },
+  {
+    "id": 12,
+    "nome": "Delegacia de Polícia Sede de Suzano",
+    "categoria": "Segurança",
+    "endereco": null,
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.55017,
+    "longitude": -46.31448
+  },
+  {
+    "id": 13,
+    "nome": "Delegacia de Defesa da Mulher",
+    "categoria": "Segurança",
+    "endereco": null,
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.54595,
+    "longitude": -46.31586
+  },
+  {
+    "id": 14,
+    "nome": "Corpo de Bombeiros - 2º SGB",
+    "categoria": "Segurança",
+    "endereco": "Rua Regina Cabalau Mendonça, 363",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.55183,
+    "longitude": -46.31821
+  },
+  {
+    "id": 15,
+    "nome": "Guarda Civil Municipal",
+    "categoria": "Segurança",
+    "endereco": "Rua Alfredo Batista Pizzolato",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.54804,
+    "longitude": -46.30453
+  },
+  {
+    "id": 16,
+    "nome": "Banco do Brasil",
+    "categoria": "Banco",
+    "endereco": "Rua General Francisco Glicério - Centro",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.53869,
+    "longitude": -46.30976
+  },
+  {
+    "id": 17,
+    "nome": "Caixa Econômica Federal",
+    "categoria": "Banco",
+    "endereco": "Rua General Francisco Glicério",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.54917,
+    "longitude": -46.31407
+  },
+  {
+    "id": 18,
+    "nome": "Itaú",
+    "categoria": "Banco",
+    "endereco": "Rua Benjamin Constant, 635 - Centro",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.53956,
+    "longitude": -46.31117
+  },
+  {
+    "id": 19,
+    "nome": "Bradesco",
+    "categoria": "Banco",
+    "endereco": "Rua General Francisco Glicério - Centro",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.54025,
+    "longitude": -46.31063
+  },
+  {
+    "id": 20,
+    "nome": "Assaí Atacadista",
+    "categoria": "Supermercado",
+    "endereco": "Rua Doutor Prudente de Moraes, 1751 - Vila Amorim",
+    "telefone": "(11) 4741-1211",
+    "horario": "Seg a Sáb 07:00–22:00 · Dom 08:00–18:00",
+    "latitude": -23.53742,
+    "longitude": -46.29539
+  },
+  {
+    "id": 21,
+    "nome": "Atacadão",
+    "categoria": "Supermercado",
+    "endereco": "Rua Vereador João Batista Fitipaldi, 380 - Vila Maluf",
+    "telefone": "(11) 4744-8624",
+    "horario": "Seg a Sáb 07:00–22:00 · Dom 08:00–18:00",
+    "latitude": -23.53081,
+    "longitude": -46.30500
+  },
+  {
+    "id": 22,
+    "nome": "Nagumo Supermercados",
+    "categoria": "Supermercado",
+    "endereco": "Avenida Francisco Marengo, 2301 - Jardim Dona Benta",
+    "telefone": "(11) 4752-9210",
+    "horario": "Seg a Sáb 08:30–21:00 · Dom 08:30–14:00",
+    "latitude": -23.50018,
+    "longitude": -46.29732
+  },
+  {
+    "id": 23,
+    "nome": "Semar Supermercados",
+    "categoria": "Supermercado",
+    "endereco": "Rua General Francisco Glicério, 1355 - Centro",
+    "telefone": "(11) 4741-3580",
+    "horario": "Seg a Sáb 07:00–22:00 · Dom 07:00–15:00",
+    "latitude": -23.54634,
+    "longitude": -46.31169
+  },
+  {
+    "id": 24,
+    "nome": "Auto Posto Santo Ângelo II",
+    "categoria": "Posto",
+    "endereco": "Avenida Francisco Marengo",
+    "telefone": null,
+    "horario": "24 horas",
+    "latitude": -23.51133,
+    "longitude": -46.30032
+  },
+  {
+    "id": 25,
+    "nome": "Posto Shell",
+    "categoria": "Posto",
+    "endereco": "Avenida Armando de Salles Oliveira",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.53389,
+    "longitude": -46.31214
+  },
+  {
+    "id": 26,
+    "nome": "D'Avó Posto",
+    "categoria": "Posto",
+    "endereco": "Avenida Armando de Salles Oliveira, 1200",
+    "telefone": null,
+    "horario": "Seg a Sáb 06:00–23:00 · Dom 07:00–22:00",
+    "latitude": -23.54289,
+    "longitude": -46.31629
+  },
+  {
+    "id": 27,
+    "nome": "Gran Suzano II",
+    "categoria": "Posto",
+    "endereco": "Rua Baruel",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.55664,
+    "longitude": -46.30744
+  },
+  {
+    "id": 28,
+    "nome": "Posto Vale+",
+    "categoria": "Posto",
+    "endereco": "Rua Prudente de Moraes - Centro",
+    "telefone": null,
+    "horario": null,
+    "latitude": -23.53680,
+    "longitude": -46.30230
   }
 ]
